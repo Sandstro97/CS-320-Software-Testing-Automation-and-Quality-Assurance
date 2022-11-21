@@ -1,4 +1,4 @@
-# CS320
+# CS 320 Software Testing, Automation, and Quality Assurance
 
 How can I ensure that my code, program, or software is functional and secure?
 - I think the best way for me to make sure my software if functional and secure is to use the tools that are given to you. Using jUnit was something that I never used before but after using it I saw how effective it can be when used correctly. 
